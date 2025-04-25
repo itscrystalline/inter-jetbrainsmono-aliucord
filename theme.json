@@ -1,9 +1,18 @@
 {
   "manifest": {
     "author": "itscrystalline",
-    "name": "Inter",
+    "name": "Inter & JetBrains Mono",
     "license": "SIL-OFL",
-    "updater": "https:\/\/raw.githubusercontent.com\/itscrystalline\/inter-aliucord\/main\/src\/theme.json",
+    "updater": "https:\/\/raw.githubusercontent.com\/itscrystalline\/inter-jetbrainsmono-aliucord\/main\/theme.json",
     "version": "1.0.0"
-  }
+  },
+  "background": {},
+  "fonts": {
+    "*": "https:\/\/raw.githubusercontent.com\/itscrystalline\/inter-jetbrainsmono-aliucord\/main\/InterVariable.ttf",
+    "sourcecodepro_semibold": "https:\/\/raw.githubusercontent.com\/itscrystalline\/inter-jetbrainsmono-aliucord\/main\/JetBrainsMono.ttf"
+  },
+  "simple_colors": {},
+  "colors": {},
+  "drawable_tints": {},
+  "raws": {}
 }
