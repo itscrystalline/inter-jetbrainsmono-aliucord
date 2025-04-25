@@ -1,0 +1,9 @@
+{
+  "manifest": {
+    "author": "itscrystalline",
+    "name": "Inter",
+    "license": "SIL",
+    "updater": "https:\/\/raw.githubusercontent.com\/itscrystalline\/inter-aliucord\/main\/src\/theme.json",
+    "version": "1.0.0"
+  }
+}
